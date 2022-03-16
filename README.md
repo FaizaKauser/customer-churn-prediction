@@ -1,5 +1,5 @@
-
-## Churn prediction analysis with Machine Learning
+# Churn prediction with Machine Learning
+## Churn prediction analysis and Prediction
 The goal of this project is to predict customer churn for a bank with Machine Learning. These predictions allow to set up a targeted strategy for customer retention.
 
 ## Models
